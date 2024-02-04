@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707044025 source:d:\daa weekly problems\mergesort\mergesort\main.c
+	<stdio.h>
+	<stdlib.h>
+
